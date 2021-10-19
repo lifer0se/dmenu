@@ -2,6 +2,7 @@
 /* Default settings; can be overriden by command line. */
 
 static int topbar = 1;
+static int fuzzy = 1;
 static const char *fonts[] = { "Roboto:style=Bold:size=13" };
 static const char *prompt = NULL;
 static int colorprompt = 0;
